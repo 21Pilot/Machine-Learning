@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # Flora Seo 
-# 2020/10/17
+# 2020/10/30
 # Frequentist Machine Learning_Project5
 
 # Data 
